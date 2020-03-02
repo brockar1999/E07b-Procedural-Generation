@@ -1,4 +1,4 @@
-# E07b-Procedural-Generation
+# E07b-Procedural-Generation Allie Brock MSCH-C220 Spring 2020
 
 The concepts in this exercise may be a little advanced for your current skill level, but as long as you closely follow the accompanying video, you shouldn't have any trouble accomplishing the exercise. I mostly want to give you a chance to play with the TileMap node and to see how procedural generation might work in a project.
 
